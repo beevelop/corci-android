@@ -1,7 +1,6 @@
 {
   "name": "corci-android",
   "version": "0.0.1",
-  "description": "corci-android",
   "bin": "bin/cmd.js",
   "author": "Maik Hummel <yo@beevelop.com>",
   "dependencies": {
@@ -18,18 +17,5 @@
     "test": "grunt --verbose",
     "cmd": "node bin/cmd.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/beevelop/cordova-build"
-  },
-  "bugs": {
-    "url": "https://github.com/beevelop/cordova-build/issues"
-  },
-  "keywords": [
-    "cordova",
-    "phonegap",
-    "build",
-    "server"
-  ],
   "private": true
 }
