@@ -2,4 +2,4 @@
 var corciAgent = require('corci-agent');
 var Android = require('../lib/Android');
 
-corciAgent('android', Android);
+corciAgent(Android);
